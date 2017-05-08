@@ -1,0 +1,17 @@
+{
+  "motionTime": {
+    "start": "08:00",
+    "end": "20:00"
+  },
+  "photo": {
+    "path": "./photos/",
+    "dimensions": {
+      "width": 2592,
+      "height": 1944
+    },
+    "flipPhotoVertical": true,
+    "maxFiles": 500
+  },
+  "calibrationDelay": 60000,
+  "raspberryBoardPin": "P1-7"
+}
