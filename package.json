@@ -1,0 +1,33 @@
+{
+  "name": "raspberry-pi-pet-cam",
+  "version": "1.0.0",
+  "description": "This is a Raspberry Pi app using a camera and PIR motion sensor",
+  "keywords": [
+    "raspberry pi",
+    "raspberry",
+    "pir sensor",
+    "pet cam",
+    "kitty cam",
+    "camera",
+    "motion sensor"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified :v\" && exit 1"
+  },
+  "author": "Jonahan De Moor",
+  "license": "MIT",
+  "dependencies": {
+    "config": "~1.26.1",
+    "glob": "~7.1.1",
+    "johnny-five": "~0.10.6",
+    "moment": "~2.17.1",
+    "raspi-io": "~7.2.3",
+    "raspicam": "~0.2.13"
+  },
+  "devDependencies": {
+    "eslint": "~3.15.0",
+    "eslint-config-itp-base": "~1.0.1",
+    "eslint-plugin-import": "~2.2.0"
+  }
+}
