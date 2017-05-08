@@ -20,6 +20,10 @@ Run app as the root user
 
     sudo node index.js
 
+Clean up photos script (cron job)
+
+    node cleanup.js
+
 ## Options
 
     ./config/default.json
