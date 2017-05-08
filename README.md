@@ -1,5 +1,7 @@
 # Raspberry Pi Pet Cam
 
+![](./docs/jack.jpg)
+
 ## Project setup
 
 Clone this project:
